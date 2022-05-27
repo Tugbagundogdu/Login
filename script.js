@@ -22,11 +22,6 @@ function kontrolEt (){
             return true;
         }
 
-        else{
-
-            return false;
-
-        }
 
     }
 
