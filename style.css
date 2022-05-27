@@ -1,0 +1,51 @@
+#div1{
+
+    width: 30%;
+    height: 200px;
+    background-color: lightgreen;
+    position: absolute;
+    border-radius: 10px;
+    left: 35%;
+    top: 25%;
+
+
+}
+
+#kullaniciAdi{
+
+width: 150px;
+height: 30px;
+margin-left: 20px;
+margin-top: 20px;
+
+
+}
+
+#parola{
+
+    width: 150px;
+    height: 30px;
+    margin-left: 66px;
+    margin-top: 20px;
+
+
+}
+
+#btn{
+width: 250px;
+height: 30px;
+margin-left: 90px;
+margin-top: 10px;
+
+
+
+}
+
+body{
+
+background-image: url(http://www.egonomik.com/wp-content/uploads/2012/05/route-66-road-wallpaper.jpg);
+
+
+
+}
+
